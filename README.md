@@ -2,7 +2,7 @@ A simple and responsive trip-booking web application built using Node.js + Expre
 
 This project demonstrates modern DevOps practices, including containerization, CI/CD pipeline automation, cloud deployment, and reverse proxy configuration.
 
-h Stack
+tech Stack
 Frontend & Backend
 
 Node.js
